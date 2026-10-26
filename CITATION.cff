@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "INQUIRE_TIP – Toxicity-Informed Prioritization"
+abstract: >-
+  Python/JupyterLab pipeline for toxicity-driven prioritization of chemical features detected by
+  non-target screening, combining Elastic Net, stability selection, XGBoost, SHAP and the
+  Final Stability-Adjusted Compound Index (FSACI) per toxicity endpoint.
+type: software
+authors:
+  - family-names: Rebryk
+    given-names: Andriy
+    orcid: "https://orcid.org/0000-0002-0090-809X"
+version: "1.0"
+date-released: "2026-10-26"
+license: MIT
+repository-code: "https://github.com/r3bryk/INQUIRE_TIP"
+keywords:
+  - non-target screening
+  - toxicity
+  - prioritization
+  - house dust
+  - elastic net
+  - stability selection
+  - XGBoost
+  - SHAP

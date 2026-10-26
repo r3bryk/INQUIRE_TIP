@@ -1,0 +1,16 @@
+# Working data and outputs (never commit real data or results)
+data/*
+!data/README.md
+
+# Log files (contain sample IDs and results)
+*.log
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+Thumbs.db
+~$*
